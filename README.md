@@ -1,2 +1,10 @@
 # heckinsnek
-hello. this is heckinsnek. am Python snek simulator. don't heck with me.
+
+hello  
+this is heckinsnek  
+am Python snek simulator   
+doing a print  
+maybe like boop, maybe not like boop  
+ask first, k?  
+don't heck with me  
+vur snek_case  
