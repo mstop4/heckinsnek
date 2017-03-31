@@ -2,7 +2,7 @@
 
 hello  
 this is heckinsnek  
-am Python snek simulator   
+am snek simulator   
 doing a print  
 maybe like boop, maybe not like boop  
 ask first, k?  
